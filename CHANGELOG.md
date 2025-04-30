@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.15](https://github.com/matter-labs/foundry-zksync/compare/foundry-zksync-v0.0.14...foundry-zksync-v0.0.15) (2025-04-30)
+
+
+### Bug Fixes
+
+* Added test for issue 1036 regarding crypto provider initialization ([#1038](https://github.com/matter-labs/foundry-zksync/issues/1038)) ([7461390](https://github.com/matter-labs/foundry-zksync/commit/7461390b11493e89d8d09974f0303aefcc5c9cf5))
+
 ## [0.0.14](https://github.com/matter-labs/foundry-zksync/compare/foundry-zksync-v0.0.13...foundry-zksync-v0.0.14) (2025-04-28)
 
 
